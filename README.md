@@ -21,4 +21,13 @@ python ./src/GeoCSV_2_netCDF_3D.py -i KIM2005.csv -d
 python readNetCDF.py
 ```
 
+### results
+<table>
+   <tr>
+      <td> <img src="https://github.com/IESDMC/TVM2NetCDF/blob/main/docs/KIM2005_Vs31.jpeg?raw=true" width="100%"></td>
+   </tr>
+   <tr>
+      <td align="center">Velocity Model in NetCDF format</td>
+   </tr>
+</table>
 
