@@ -27,7 +27,11 @@ python readNetCDF.py
       <td> <img src="https://github.com/IESDMC/TVM2NetCDF/blob/main/docs/KIM2005_Vs31.jpeg?raw=true" width="100%"></td>
    </tr>
    <tr>
-      <td align="center">Velocity Model in NetCDF format</td>
+      <td align="center">
+         <div>Velocity Model in NetCDF format</div>
+         <div>Kim, K.H., J.M. Chiu, J. Pujol, K.C. Chen, B.S. Huang, Y. Yeh, and P. Shen (2005). Three-dimensional Vp and Vs structural models associated with the active subduction and collision tectonics in the Taiwan region, Geophysical Journal International, 162, 204-220.
+            <a href="http://dx.doi.org/10.1111/j.1365-246X.2005.02657.x">10.1111/j.1365-246X.2005.02657.x</a></div>
+      </td>
    </tr>
 </table>
 
